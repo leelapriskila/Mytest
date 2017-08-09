@@ -1,0 +1,6 @@
+Variables and expressions
+To translate a real-world problem into one that can be solved by an algorithm, there are two
+interrelated tasks. Firstly, select the variables, and secondly, find the expressions that relate
+to these variables. Variables are labels attached to objects; they are not the object itself. They
+are not containers for objects either. A variable does not contain the object, rather it acts as a
+pointer or reference to an object.
